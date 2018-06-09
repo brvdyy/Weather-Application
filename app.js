@@ -20,7 +20,7 @@ $(document).ready(function() {
             if (searchBarValue != '') {
                 //AJAX REQUEST FOR WEATHER DATA
                 $.ajax({
-                    url: 'http://api.openweathermap.org/data/2.5/weather?q=' + searchBarValue + '&units=imperial&APPID=' + apiKey,
+                    url: 'https://api.openweathermap.org/data/2.5/weather?q=' + searchBarValue + '&units=imperial&APPID=' + apiKey,
                     type: 'GET',
                     dataType: 'jsonp',
                     //ON SUCCESS THE DATA IS STORED IN AN OBJECT
