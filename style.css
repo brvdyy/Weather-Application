@@ -1,0 +1,17 @@
+html {
+    position: relative;
+    min-height: 100%
+}
+
+#submitButton {
+    margin-top: 1em;
+}
+
+#footer {
+    background-color: #e9ecef;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
