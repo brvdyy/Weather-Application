@@ -1,4 +1,4 @@
-#Basic Weather Application
+# Basic Weather Application
 
 Basic weather application I made using an API from OpenWeatherMap.
 
@@ -8,4 +8,4 @@ Basic weather application I made using an API from OpenWeatherMap.
 * [jQuery](https://maven.apache.org/) - JavaScript Library
 * [Bootstrap](https://rometools.github.io/rome/) - CSS Library
 
-[See a Live Demo Here](https://rometools.github.io/rome/)
+[See a Live Demo Here](https://thebradyc.github.io/Weather-Application/)
